@@ -1,0 +1,38 @@
+body{background-color:#00DAFF; 
+    border:40px solid #223A5E;
+	margin:auto; text-align:center; 
+	padding-top:5%;
+	padding-bottom:5%;
+	
+}
+h1{font-size:40px;
+text-align:center;
+}
+h2{text-align:center;}
+	p{padding-left:2%;
+	padding-right:2%;
+	text-align:justify;}
+form{font-size:1.5em;
+margin:10px;}
+
+#sub{ background-color:#9C9A40;
+ height:60px;
+ width:150px;
+ margin:4px;
+ margin-top:12px;
+ border-radius:25px;
+ font-size:1.0em;
+
+}
+.art{margin:auto;}
+
+td
+{height:300px;
+width:150px; 
+
+}
+
+#one{background-color:#7FFF00;}
+#two{background-color:#D08770;}
+#three{background-color:#FFF68F;}
+#four{background-color:#5C940D;}
